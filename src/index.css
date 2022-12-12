@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+hr {
+	height: 3px;
+	background-color: #63D09D;
+	border: none;
+}
+
+input{
+	border: 1px solid;
+}
